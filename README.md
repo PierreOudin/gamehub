@@ -44,9 +44,10 @@ cd ../frontend && npm run dev
 
 ## 📚 Documentation
 
-- [Product Brief](../_bmad-output/planning-artifacts/product-brief-GameHub-2026-02-11.md)
-- [Planning Semaine 1](../_bmad-output/planning-artifacts/semaine-1-planning.md)
 - [Architecture Decisions](./docs/ADR/)
+
+**Note:** Les documents de planification (Product Brief, spécifications) sont stockés séparément du code source.
+
 
 ## 📝 License
 
